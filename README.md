@@ -1,2 +1,2 @@
 # ISLR
-https://mybinder.org/v2/gh/aicharya/ISLR/main
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aicharya/ISLR/main)
